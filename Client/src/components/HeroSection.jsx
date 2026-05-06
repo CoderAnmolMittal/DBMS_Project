@@ -31,7 +31,7 @@ function HeroSection() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.2, duration: 0.8 }}
                 className='flex flex-col gap-5 my-10'>
-                <span className='mx-auto px-4 py-2 rounded-full bg-gray-100 text-[#F83002] font-medium'>No. 1 Job Hunt Website</span>
+                <span className='mx-auto px-4 py-2 rounded-full bg-gray-100 text-[#F83002] font-medium'>Job Hunt Website by Anmol, Arpit and Abhijeet</span>
                 {/* <p>/ your dream job today!</p> */}
 
                 <motion.h1
